@@ -1,0 +1,20 @@
+{
+  "name": "vedic-ai",
+  "version": "1.0.0",
+  "description": "Vedic AI Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vedic",
+    "ai",
+    "firebase"
+  ],
+  "author": "Abhishek",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^10.5.0"
+  }
+}
