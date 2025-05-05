@@ -16,5 +16,9 @@
   "license": "MIT",
   "dependencies": {
     "firebase": "^10.5.0"
-  }
+  },
+  "engines": {
+    "node": "16"
+  },
+  "type": "module"
 }
